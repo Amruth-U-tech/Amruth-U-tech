@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADB5&size=35&center=true&vCenter=true&width=900&lines=Amruth;Exploring+Intelligence+Through+Code;Machine+Learning+%7C+Systems+%7C+DSA)
 # Hi, I'm Amruth 👋
 
 > Exploring intelligence through code, math, and systems.
@@ -88,7 +89,7 @@ Data → Linear Algebra → ML → DL → NLP → LLMs
 
 ## 📊 Contribution Activity (Snake)
 
-![Snake animation](https://github.com/Amruth-U-tech/Amruth-U-tech/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Amruth-U-tech/Amruth-U-tech/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -120,12 +121,6 @@ Data → Linear Algebra → ML → DL → NLP → LLMs
 > "Depth over speed. Understanding over memorization."
 
 ---
-
-## 📫 Connect With Me
-
-* Email: [your_email@gmail.com](mailto:your_email@gmail.com)
-
-
 ## 📫 Connect With Me
 
 - Email: amruthu.tech@gmail.com
