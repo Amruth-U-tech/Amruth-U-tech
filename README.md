@@ -69,11 +69,6 @@
 I aim to understand systems at a fundamental level —  
 not just how they work, but why they work.
 
----
-
-## 📫 Connect With Me
-
-- Email: your_email@gmail.com
 
 ## 📫 Connect With Me
 
