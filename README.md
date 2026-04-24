@@ -1,126 +1,80 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADB5&size=35&center=true&vCenter=true&width=900&lines=Amruth;Exploring+Intelligence+Through+Code;Machine+Learning+%7C+Systems+%7C+DSA)
-# Hi, I'm Amruth 👋
+<div align="center">
 
-> Exploring intelligence through code, math, and systems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0ea5e9&height=220&section=header&text=Amruth&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Exploring%20Intelligence%20Through%20Systems%20%26%20Learning%20Models&descAlignY=55&descSize=18" width="100%"/>
 
-🧠 Curious mind building a deep understanding of algorithms, machine learning, and systems
-💻 Focused on learning through structured experimentation and real implementation
-📍 India
+<img src="https://readme-typing-svg.demolab.com/?lines=Deep+Learning+Builder;System+Level+Thinker;Machine+Learning+Explorer;Full+Stack+Developer&center=true&width=520&height=45">
 
----
+<br>
 
-## 🔥 What I'm Currently Doing
+<a href="https://github.com/Amruth-U-tech">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-* Solving DSA problems
-* Building Deep Learning models
-* Exploring Machine Learning with math intuition
-* Learning Linux and system-level concepts
+<a href="https://www.linkedin.com/in/amruth-u-a1a85027a?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="mailto:amruthu.tech@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🛠️ What I'm Building
-
-* 🧠 Deep Learning Journey → Perceptron → LLMs
-* 📊 Machine Learning Journey → Math → Models
-* ⚙️ System Understanding → Low-level + thinking
+</div>
 
 ---
 
-## 🧪 Current Experiments
+## 🧠 About
 
-* Comparing RNN vs LSTM
-* Hybrid CNN + Vision Transformer
-* LLM evaluation
-* Autoencoders
+* Engineering student focused on **Machine Learning, Systems, and Full Stack Development**
+* Building models and systems from **first principles**
+* Strong focus on **understanding, not just implementation**
+* Connecting **mathematics → models → real-world systems**
 
 ---
 
-## 📈 Learning Path
+## 🚀 Work Direction
 
 ```text
-Data → Linear Algebra → ML → DL → NLP → LLMs
+Data → Linear Algebra → Machine Learning → Deep Learning → NLP → LLMs
 ```
 
 ---
 
-## 🚀 Selected Work
+## 🧪 Experiments (Actionable)
 
-### 🧠 DL Journey
-
-👉 https://github.com/Amruth-U-tech/DL-Journey
-
-### 📊 ML Journey
-
-👉 https://github.com/Amruth-U-tech/ML-Journey
-
-### 🎨 Kolam Classification
-
-👉 https://github.com/Amruth-U-tech/Kolam-Classification
+* 🧠 [Perceptron & MLP Foundations](https://github.com/Amruth-U-tech/DL-Journey/tree/main/01-Perceptron)
+* 🧠 [CNN on Alzheimer Dataset](https://github.com/Amruth-U-tech/DL-Journey/tree/main/04-CNN)
+* 🧠 [RNN vs LSTM (California Housing)](https://github.com/Amruth-U-tech/DL-Journey/tree/main/06-RNN-LSTM)
+* 🧠 [NLP Model on Shakespeare Text](https://github.com/Amruth-U-tech/DL-Journey/tree/main/07-NLP)
+* 🧠 [Autoencoder on Fashion Dataset](https://github.com/Amruth-U-tech/DL-Journey/tree/main/08-Autoencoder)
+* 🧠 [LLM Experiments (Transformers)](https://github.com/Amruth-U-tech/DL-Journey/tree/main/09-LLMs)
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
-* Python
-* Java
-* TensorFlow / PyTorch
-* NumPy / Pandas / Matplotlib
-* Git & GitHub
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,nodejs,react,mongodb,mysql,git,github,tensorflow,pytorch&theme=dark" />
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amruth-U-tech\&show_icons=true\&theme=tokyonight)
+</div>
 
 ---
 
-## 🔥 Streak Stats
+## 📊 GitHub Intelligence
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Amruth-U-tech\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Amruth-U-tech&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=Amruth-U-tech&theme=tokyonight" height="170"/>
 
----
+<br>
 
-## 💻 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth-U-tech&layout=compact&theme=tokyonight" height="170"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth-U-tech\&layout=compact\&theme=tokyonight)
+<br>
 
----
-
-## 📊 Contribution Activity (Snake)
-
-![Snake animation](https://raw.githubusercontent.com/Amruth-U-tech/Amruth-U-tech/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amruth-U-tech&bg_color=020617&color=0ea5e9&line=38bdf8&point=0ea5e9&area=true&hide_border=true"/>
 
 ---
 
-## 💬 Daily Thought (Dynamic Quote)
+## 🐍 Contribution Flow
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
----
-
-## 📊 Proof of Work
-
-* Consistent commits
-* ML/DL experimentation
-* End-to-end projects
-* Learning-focused mindset
-
----
-
-## 🧠 What I Care About
-
-* Deep understanding
-* First principles
-* Math + real-world connection
-
----
-
-## 🌱 Philosophy
-
-> "Depth over speed. Understanding over memorization."
-
----
-## 📫 Connect With Me
-
-- Email: amruthu.tech@gmail.com
+<img src="https://raw.githubusercontent.com/Amruth-U-tech/Amruth-U-tech/output/github-contribution-grid-snake.svg"/>
