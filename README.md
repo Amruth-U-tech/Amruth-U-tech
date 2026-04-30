@@ -41,10 +41,10 @@ Data → Linear Algebra → Machine Learning → Deep Learning → NLP → LLMs
 
 ## 🧪 Experiments
 
-* 🧠 [Perceptron and MLP Foundations](https://github.com/Amruth-U-tech/DL-Journey/tree/main/01-Perceptron)
-* 🧠 [CNN on Alzheimer Dataset](https://github.com/Amruth-U-tech/DL-Journey/tree/main/04-CNN)
-* 🧠 [RNN vs LSTM on Shakespeare Text](https://github.com/Amruth-U-tech/DL-Journey/tree/main/06-RNN-LSTM)
-* 🧠 [NLP Model on Shakespeare Text](https://github.com/Amruth-U-tech/DL-Journey/tree/main/07-NLP)
+* 🧠 [Perceptron and MLP Foundations](https://github.com/Amruth-U-tech/DL-Journey/tree/main/02-MLP)
+* 🧠 [CNN on Alzheimer Dataset](https://github.com/Amruth-U-tech/DL-Journey/tree/main/03-CNN)
+* 🧠 [RNN vs LSTM on Shakespeare Text](https://github.com/Amruth-U-tech/DL-Journey/tree/main/05-LSTMs)
+* 🧠 [NLP Model on Shakespeare Text](https://github.com/Amruth-U-tech/DL-Journey/tree/main/06-NLP)
 * 🧠 [Autoencoder on Fashion Dataset](https://github.com/Amruth-U-tech/DL-Journey/tree/main/08-Autoencoder)
 * 🧠 [LLM Experiments using Transformers](https://github.com/Amruth-U-tech/DL-Journey/tree/main/09-LLMs)
 
