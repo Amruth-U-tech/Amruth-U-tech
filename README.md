@@ -45,8 +45,8 @@ Data → Linear Algebra → Machine Learning → Deep Learning → NLP → LLMs
 * 🧠 [CNN on Alzheimer Dataset](https://github.com/Amruth-U-tech/DL-Journey/tree/main/03-CNN)
 * 🧠 [RNN vs LSTM on Shakespeare Text](https://github.com/Amruth-U-tech/DL-Journey/tree/main/05-LSTMs)
 * 🧠 [NLP Model on Shakespeare Text](https://github.com/Amruth-U-tech/DL-Journey/tree/main/06-NLP)
-* 🧠 [Autoencoder on Fashion Dataset](https://github.com/Amruth-U-tech/DL-Journey/tree/main/08-Autoencoder)
-* 🧠 [LLM Experiments using Transformers](https://github.com/Amruth-U-tech/DL-Journey/tree/main/09-LLMs)
+* 🧠 [Autoencoder on Fashion Dataset](https://github.com/Amruth-U-tech/DL-Journey/tree/main/07-Auto-Encoders)
+* 🧠 [LLM Experiments using Transformers](https://github.com/Amruth-U-tech/DL-Journey/tree/main/08-LLMs)
 
 ---
 
