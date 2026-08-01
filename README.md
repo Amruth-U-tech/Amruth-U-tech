@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:111827,100:0ea5e9&height=190&section=header&text=Amruth%20U&fontSize=58&fontAlignY=45&animation=fadeIn&fontColor=38bdf8&desc=Software%20Engineer%20%E2%80%A2%20AI%20Infrastructure%20%E2%80%A2%20Distributed%20Systems&descAlignY=72&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:111827,100:0ea5e9&height=190&section=header&text=Amruth%20U&fontSize=58&fontAlignY=45&animation=fadeIn&fontColor=38bdf8&desc=Building%20AI%20Infrastructure%20%E2%80%A2%20System-Level%20Thinking%20%E2%80%A2%20Production-Ready%20Engineering&descAlignY=72&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Software+Engineering+Intern+%40+Bharat+Electronics+Limited;Building+Production-Grade+AI+Infrastructure;Engineering+Distributed+Backend+Systems;Full+Stack+Developer;Machine+Learning+Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=Missile+Systems+%26+Software+Intern+%40+BEL;Building+Production-Ready+AI+Infrastructure;System-Level+Thinker;Machine+Learning+%7C+Data+Analytics+%7C+Full+Stack;Engineering+Reliable+Software+Systems"/>
 
 <br>
 
@@ -22,38 +22,56 @@
 
 ---
 
-# 💼 Experience
+# About
 
-### **Software Engineering Intern**
-### **Bharat Electronics Limited (BEL)**
+I enjoy building **production-ready software systems** where Artificial Intelligence, Data Engineering and Software Engineering intersect.
 
-📍 Missile Systems & Software Engineering
-
-Worked within BEL's defence engineering ecosystem, gaining exposure to enterprise software engineering, mission-critical development workflows, software quality practices, product lifecycle management, PCB validation processes and secure engineering environments.
+My focus is not only on training models, but on engineering the complete ecosystem around them—designing scalable architectures, building robust data pipelines, and creating maintainable systems that can move beyond experimentation into production.
 
 ---
 
-# 🚀 Engineering Portfolio
+# Current Status
+
+```text
+💼 Missile Systems & Software Intern @ Bharat Electronics Limited (BEL)
+
+🧠 Building AI Infrastructure
+
+📊 Data Analytics & Machine Learning
+
+⚙️ System-Level Software Engineering
+
+🚀 Production-Ready Architecture
+```
+
+---
+
+# Engineering Portfolio
 
 <table>
+
 <tr>
 
 <td width="50%">
 
 ## 🤖 Multi-Model-AI
 
-**Production-grade Multimodal AI Infrastructure**
+### Production AI Infrastructure
 
-A modular deep learning framework combining Computer Vision, NLP and Structured Data into a unified multimodal pipeline.
+End-to-end multimodal learning framework combining images, language and structured metadata.
 
 **Highlights**
 
 - Registry-driven datasets
-- Deterministic execution
-- Validation framework
+- Production data pipeline
 - GPU-ready training
-- Execution planner
+- Validation framework
 - Modular architecture
+- Execution planning
+- Multimodal fusion
+- Infrastructure hardening
+
+<a href="https://github.com/Amruth-U-tech/Multi-Model-AI">🔗 View Repository</a>
 
 </td>
 
@@ -61,71 +79,77 @@ A modular deep learning framework combining Computer Vision, NLP and Structured 
 
 ## ⚡ Aura OS V2
 
-**Distributed Productivity Platform**
+### Distributed Productivity Platform
 
-A production-style distributed software platform featuring realtime collaboration and event-driven architecture.
+Production-ready distributed software system focused on realtime collaboration.
 
 **Highlights**
 
+- Event Driven Architecture
 - Redis Pub/Sub
 - Socket.IO
-- Discord OAuth
 - LiveKit
+- Discord OAuth
 - JWT Authentication
+- Cloud Deployment
 - Distributed Services
+
+<a href="https://github.com/Amruth-U-tech/Aura-OS-V2">🔗 View Repository</a>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-## 🎨 Kolam Pattern Classification
+## 🎨 Kolam Classification Project
 
-Computer Vision project implementing CNN and ConvNeXt architectures for traditional Kolam classification using a custom web-scraped dataset with transfer learning and preprocessing pipelines.
+Deep Learning based computer vision system for traditional Kolam pattern recognition using CNN and ConvNeXt architectures with transfer learning.
+
+**Focus Areas**
+
+- Computer Vision
+- Transfer Learning
+- Deep Learning
+- Image Processing
+- TensorFlow
+- Data Augmentation
+
+🔗 https://github.com/Amruth-U-tech/Kolam-Classification-Project
 
 ---
 
-# 📚 Continuous Learning
-
-<table>
-<tr>
-
-<td width="50%">
+# Learning Ecosystem
 
 ## 📈 My Journey
 
-My complete DSA progression.
+A continuously evolving repository documenting my Data Structures & Algorithms journey.
 
 - Daily LeetCode
 - Pattern Recognition
 - Interview Preparation
 - Optimized Solutions
-
-</td>
-
-<td width="50%">
-
-## 🧠 Deep Learning Journey
-
-Building Deep Learning from first principles.
-
-- CNNs
-- RNNs
-- LSTMs
-- Transformers
-- LLMs
-- NLP
-
-</td>
-
-</tr>
-</table>
+- Problem Solving
 
 ---
 
-# ⚙ Engineering Stack
+## 🧠 Deep Learning Journey
+
+Building Deep Learning from mathematical foundations to modern architectures.
+
+- Perceptrons
+- CNNs
+- RNNs
+- LSTMs
+- NLP
+- Transformers
+- Large Language Models
+
+---
+
+# Technology Stack
 
 ### Languages
 
@@ -133,15 +157,19 @@ Building Deep Learning from first principles.
 <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,sql,html,css"/>
 </p>
 
-### AI & Machine Learning
+---
+
+### AI • Machine Learning • Data
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 </p>
 
-**Libraries**
+**Libraries & Frameworks**
 
-`NumPy` • `Pandas` • `OpenCV` • `Hugging Face` • `Matplotlib` • `timm`
+`NumPy` • `Pandas` • `OpenCV` • `Matplotlib` • `Scikit-Learn` • `Hugging Face` • `timm`
+
+---
 
 ### Backend
 
@@ -149,15 +177,17 @@ Building Deep Learning from first principles.
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis"/>
 </p>
 
-**Technologies**
+`REST APIs` • `Socket.IO` • `JWT` • `Discord OAuth` • `LiveKit`
 
-`Socket.IO` • `JWT` • `Discord OAuth` • `LiveKit` • `REST APIs`
+---
 
 ### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
 </p>
+
+---
 
 ### Tools
 
@@ -167,55 +197,40 @@ Building Deep Learning from first principles.
 
 ---
 
-# 📌 Featured Repositories
+# Areas of Interest
 
-<p align="center">
+```text
+Artificial Intelligence
+Machine Learning
 
-<a href="https://github.com/Amruth-U-tech/Multi-Model-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Amruth-U-tech&repo=Multi-Model-AI&theme=tokyonight"/>
-</a>
+Production AI Infrastructure
 
-<a href="https://github.com/Amruth-U-tech/Aura-OS-V2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Amruth-U-tech&repo=Aura-OS-V2&theme=tokyonight"/>
-</a>
+Data Analytics
 
-</p>
+Distributed Systems
 
-<p align="center">
+Backend Engineering
 
-<a href="https://github.com/Amruth-U-tech/Kolam-Classification-Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Amruth-U-tech&repo=Kolam-Classification-Project&theme=tokyonight"/>
-</a>
+Software Architecture
 
-<a href="https://github.com/Amruth-U-tech/my-journey">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Amruth-U-tech&repo=my-journey&theme=tokyonight"/>
-</a>
-
-</p>
+Full Stack Development
+```
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Amruth-U-tech&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-</p>
-
----
-
-# 📊 GitHub Intelligence
+# GitHub Intelligence
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amruth-U-tech&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Amruth-U-tech&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://streak-stats.demolab.com/?user=Amruth-U-tech&theme=tokyonight" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Amruth-U-tech&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth-U-tech&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth-U-tech&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
@@ -247,6 +262,8 @@ Building Deep Learning from first principles.
 
 <div align="center">
 
-## *"Build systems. Understand fundamentals. Engineer for scale."*
+## **"Build Production Systems. Think Beyond Code."**
+
+*AI Infrastructure • Data Analytics • System-Level Thinking • Production-Ready Engineering*
 
 </div>
